@@ -1,5 +1,4 @@
 window.MOVIEHUB_DATA = {
-  // 1. Featured Spotlight Hero Banner (Main Top Screen)
   featured: {
     id: "feat-1",
     title: "Avatar: The Way of Water",
